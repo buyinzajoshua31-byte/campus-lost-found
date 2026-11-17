@@ -1,0 +1,8 @@
+{
+  "name": "campus-lost-found",
+  "version": "1.0.0",
+  "description": "Campus Lost & Found - Express + MongoDB CRUD app",
+  "main": "server.js",
+  "scripts": { "seed": "node seed.js", "start": "node server.js" },
+  "dependencies": { "express": "^4.19.2", "mongodb": "^6.8.0" }
+}
